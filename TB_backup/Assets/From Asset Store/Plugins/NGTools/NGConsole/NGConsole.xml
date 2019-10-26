@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NGConsole</name>
+    </assembly>
+    <members>
+        <member name="M:NGDebug.LogHierarchy(UnityEngine.GameObject)">
+            <summary>Writes the hierarchy of the given Object, as a list of pingable button for each parent.</summary>
+            <param name="gameObject">
+            </param>
+        </member>
+        <member name="M:NGDebug.LogHierarchy(UnityEngine.RaycastHit)">
+            <summary>Writes the hierarchy of the given RaycastHist, as a list of pingable button for each parent.</summary>
+            <param name="hit">
+            </param>
+        </member>
+        <member name="M:NGDebug.LogHierarchy(UnityEngine.Component)">
+            <summary>Writes the hierarchy of the given Component, as a list of pingable button for each parent.</summary>
+            <param name="component">
+            </param>
+        </member>
+        <member name="M:NGDebug.Log(UnityEngine.Object[])">
+            <summary>
+                <para>Writes a log containing a pingable button for each reachable object of the given list.</para>
+                <para>Use it with GetComponents() to instantly have a visible list of all components in NG Console.</para>
+            </summary>
+            <param name="objects">
+            </param>
+        </member>
+        <member name="M:NGDebug.Log(UnityEngine.RaycastHit[])">
+            <summary>
+                <para>Writes a log containing a pingable button for each reachable object of the given list.</para>
+                <para>Use it with GetComponents() to instantly have a visible list of all components in NG Console.</para>
+            </summary>
+            <param name="hits">
+            </param>
+        </member>
+        <member name="M:NGDebug.LogCollection(System.Collections.Generic.IEnumerable{UnityEngine.RaycastHit})">
+            <summary>
+                <para>Writes a log containing a pingable button for each reachable object of the given list.</para>
+                <para>Use it with GetComponents() to instantly have a visible list of all components in NG Console.</para>
+            </summary>
+            <param name="hits">
+            </param>
+        </member>
+        <member name="M:NGDebug.LogCollection``1(System.Collections.Generic.IEnumerable{``0})">
+            <summary>
+                <para>Writes a log containing a pingable button for each reachable object of the given list.</para>
+                <para>Use it with GetComponents() to instantly have a visible list of all components in NG Console.</para>
+            </summary>
+            <typeparam name="T">
+            </typeparam>
+            <param name="objects">
+            </param>
+        </member>
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.StaticSnapshot``1-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.StaticSnapshot(System.Type)-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.StaticSnapshotToString(System.Type)-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.Snapshot(System.Object)-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.Snapshot(System.Object,System.String)-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.Snapshot(System.Object,UnityEngine.Object)-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.Snapshot(System.Object,System.Reflection.BindingFlags)-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.Snapshot(System.Object,System.Reflection.BindingFlags,UnityEngine.Object,System.String)-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.Snapshots``1(System.Collections.Generic.IEnumerable{``0},System.Int32,UnityEngine.Object)-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.Snapshots``1(System.Collections.Generic.IEnumerable{``0},System.Int32,System.Reflection.BindingFlags,UnityEngine.Object)-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.Snapshots``1(System.Collections.Generic.IEnumerable{``0},System.Int32,System.Int32,UnityEngine.Object)-->
+        <!--FIXME: Invalid documentation markup was found for member M:NGDebug.Snapshots``1(System.Collections.Generic.IEnumerable{``0},System.Int32,System.Int32,System.Reflection.BindingFlags,UnityEngine.Object)-->
+        <member name="M:NGDebug.MTLog(System.String)">
+            <summary>
+                <para>Log generating an exception to output a log with a stack trace to the console.</para>
+                <para>Works on multi-threads.</para>
+            </summary>
+            <param name="message">
+            </param>
+        </member>
+        <member name="M:NGDebug.MTLog(System.String,UnityEngine.Object)">
+            <summary>
+                <para>Log generating an exception to output a log with a stack trace to the console.</para>
+                <para>Works on multi-threads.</para>
+            </summary>
+            <param name="message">
+            </param>
+            <param name="context">
+            </param>
+        </member>
+        <member name="M:NGDebug.LogTags(System.String,System.String[])">
+            <summary>
+                <para>Outputs a log with specific tags.</para>
+                <para>Can be use with filters to easily keep/discard logs in a stream.</para>
+            </summary>
+            <param name="message">
+            </param>
+            <param name="tags">
+            </param>
+        </member>
+        <member name="M:NGDebug.LogJSON(System.String,System.String,UnityEngine.Object)">
+            <summary>Displays a convenient representation of a JSON string. Will gracefully handle parsing error.</summary>
+            <param name="message">
+            </param>
+            <param name="json">
+            </param>
+            <param name="context">
+            </param>
+        </member>
+        <member name="M:NGDebug.LogJSON(System.String,UnityEngine.Object)">
+            <summary>Displays a convenient representation of a JSON string. Will gracefully handle parsing error.</summary>
+            <param name="json">
+            </param>
+            <param name="context">
+            </param>
+        </member>
+    </members>
+</doc>
