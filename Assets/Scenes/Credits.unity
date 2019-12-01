@@ -179,8 +179,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Level Design
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -206,8 +206,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -339,8 +339,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -366,8 +366,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -383,7 +383,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -568,8 +568,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Wilda Taylor
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -595,8 +595,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -612,7 +612,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -813,8 +813,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Sound Design
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -840,8 +840,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -971,8 +971,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Programming
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -998,8 +998,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1129,8 +1129,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Eileen Hollinger
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1156,8 +1156,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1173,7 +1173,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -1287,8 +1287,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Game Design
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1314,8 +1314,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1549,8 +1549,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1576,8 +1576,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1825,8 +1825,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Kenneth Strickland
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -1852,8 +1852,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1869,7 +1869,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -1983,8 +1983,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Royalty Free Music from Bensound
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2010,8 +2010,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2027,7 +2027,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -2141,8 +2141,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Nicholas Brancaccio
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2168,8 +2168,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2185,7 +2185,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -2299,8 +2299,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Inez Hernandez
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2326,8 +2326,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2343,7 +2343,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -2504,8 +2504,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2531,8 +2531,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2548,7 +2548,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -2662,8 +2662,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Cynthia Lopez
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2689,8 +2689,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2706,7 +2706,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -2820,8 +2820,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Jason Morales
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -2847,8 +2847,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2864,7 +2864,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -2980,8 +2980,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3007,8 +3007,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3024,7 +3024,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -3223,8 +3223,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3250,8 +3250,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3267,7 +3267,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -3538,8 +3538,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Gameheads
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3565,8 +3565,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3582,7 +3582,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -3696,8 +3696,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Damon Packwood
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3723,8 +3723,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3740,7 +3740,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -3856,8 +3856,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -3883,8 +3883,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -3900,7 +3900,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -4016,8 +4016,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4043,8 +4043,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4060,7 +4060,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -4248,8 +4248,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Programming
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4275,8 +4275,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4451,8 +4451,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4478,8 +4478,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4685,8 +4685,8 @@ MonoBehaviour:
 
 '
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4712,8 +4712,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4729,7 +4729,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -4843,8 +4843,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Esperanza Hernandez
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -4870,8 +4870,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -4887,7 +4887,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -5001,8 +5001,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Brittnay Medina
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5028,8 +5028,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5045,7 +5045,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -5159,8 +5159,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Narrative Design
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5186,8 +5186,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5383,8 +5383,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: 'Special Thanks to:'
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5410,8 +5410,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 40
-  m_fontSizeBase: 40
+  m_fontSize: 60
+  m_fontSizeBase: 60
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5541,8 +5541,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Team Chick Magnets
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5568,14 +5568,14 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 40
-  m_fontSizeBase: 40
+  m_fontSize: 60
+  m_fontSizeBase: 60
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 1
-  m_textAlignment: 257
+  m_textAlignment: 514
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0
@@ -5585,7 +5585,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -5699,8 +5699,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Lisette Titre-Montgomery
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5726,8 +5726,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5743,7 +5743,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
@@ -5857,8 +5857,8 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_text: Marcus Montgomery
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8fe75788570852442a8200621a66e0a2, type: 2}
-  m_sharedMaterial: {fileID: -376641268729635185, guid: 8fe75788570852442a8200621a66e0a2,
+  m_fontAsset: {fileID: 11400000, guid: eed82f2e04a5df2458473a5d0356d1fe, type: 2}
+  m_sharedMaterial: {fileID: -7109235193399812943, guid: eed82f2e04a5df2458473a5d0356d1fe,
     type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
@@ -5884,8 +5884,8 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 30
-  m_fontSizeBase: 30
+  m_fontSize: 50
+  m_fontSizeBase: 50
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5901,7 +5901,7 @@ MonoBehaviour:
   m_enableWordWrapping: 1
   m_wordWrappingRatios: 0.4
   m_overflowMode: 0
-  m_firstOverflowCharacterIndex: 0
+  m_firstOverflowCharacterIndex: -1
   m_linkedTextComponent: {fileID: 0}
   m_isLinkedTextComponent: 0
   m_isTextTruncated: 0
