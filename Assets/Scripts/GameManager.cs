@@ -10,9 +10,7 @@ public class GameManager : MonoBehaviour
     public GameObject staticCam;
     public GameObject movingCam;
     public GameObject loader;
-
     LevelLoader loadScript;
-
     public bool hideTheChick;
     public bool fullRestart;
     public bool followtheHen;
@@ -27,7 +25,6 @@ public class GameManager : MonoBehaviour
     public bool followInCutscene = true;
     public bool restartingFromLastCheckpoint;
     public Vector3 lastCheckpoint;
-
     bool notAtStart;
     public AudioSource music;
 
